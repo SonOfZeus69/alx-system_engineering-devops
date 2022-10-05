@@ -1,1 +1,1 @@
-This is the README for this repository
+Task 0. Where am I? 
